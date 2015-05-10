@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\maxSubSumYeni\maxSubSumYeni\bin\Debug\maxSubSumYeni.exe.config
+c:\users\user\documents\visual studio 2012\Projects\maxSubSumYeni\maxSubSumYeni\bin\Debug\maxSubSumYeni.exe
+c:\users\user\documents\visual studio 2012\Projects\maxSubSumYeni\maxSubSumYeni\bin\Debug\maxSubSumYeni.pdb
+c:\users\user\documents\visual studio 2012\Projects\maxSubSumYeni\maxSubSumYeni\obj\Debug\maxSubSumYeni.exe
+c:\users\user\documents\visual studio 2012\Projects\maxSubSumYeni\maxSubSumYeni\obj\Debug\maxSubSumYeni.pdb
